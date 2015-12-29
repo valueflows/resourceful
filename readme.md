@@ -15,10 +15,10 @@ Development will use a [Domain Driven Design](http://www.methodsandtools.com/arc
 
 High level development roadmap:
 
- [x] [Whiteboard jam on schema](./jams/wb-jam-01.JPG)  
- [ ] [Gherkin Features and Scenarios](./features)  
- [ ] Implement Gherkin features in app  
- [ ] Implement responsive web User Interface  
+ - [x] [Whiteboard jam on schema](./jams/wb-jam-01.JPG)  
+ - [ ] [Gherkin Features and Scenarios](./features)  
+ - [ ] Implement Gherkin features in app  
+ - [ ] Implement responsive web User Interface  
 
 ##Why
 Because everyone has collection and want to manage them. Because we want to test ValueFlows through implementation. Because it is a step forward...
