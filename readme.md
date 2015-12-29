@@ -11,7 +11,7 @@ Resourceful is a [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_d
 Crafted in New Zealand of course!
 
 ##How
-Development will use a [Domain Driven Design](http://www.methodsandtools.com/archive/archive.php?id=97) approach. The bread and butter of this will be [Ghurkin Specs](https://github.com/cucumber/cucumber/wiki/Gherkin), these will be parsed into tests that will be coded against in implementation.
+Development will use a [Domain Driven Design](http://www.methodsandtools.com/archive/archive.php?id=97) approach. The bread and butter of this will be [Ghurkin Specs](https://github.com/cucumber/cucumber/wiki/Gherkin), these will be [parsed](https://github.com/cucumber/gherkin3) into tests that will be coded against in implementation.
 
 High level development roadmap:
 
