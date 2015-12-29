@@ -15,7 +15,7 @@ Development will use a [Domain Driven Design](http://www.methodsandtools.com/arc
 
 High level development roadmap:
 
- [x] [Whiteboard jam on schema](./jams/wb-jam-01.JPG)
+ [x] [Whiteboard jam on schema](./jams/wb-jam-01.jpg)
  [ ] [Gherkin Features and Scenarios](./features)
  [ ] Implement Gherkin features in app
  [ ] Implement responsive web User Interface
