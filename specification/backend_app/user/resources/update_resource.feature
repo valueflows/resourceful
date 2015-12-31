@@ -14,20 +14,20 @@ So that a resources representational state in Resourceful is current.
       And the data is validated against the resource type schema
      Then the resource is updated
 
-Scenario: The resource type cannot be found
+  Scenario: No resource id provided
     Given I wish to update a resource
      When I supply the data
       But no resource id is supplied
      Then I recieve an error message "No resource id provided."
 
-  Scenario: The resource type cannot be found
+  Scenario: The resource cannot be found
     Given I wish to update a resource
      When I supply the data
       And I supply a resource id
       But The resource does not exist
      Then I recieve an error message "Resource with id <id> not found."
 
-  Scenario: The data is invalid
+  Scenario: No difference in data
     Given I wish to update a resource
      When I supply the data
       And I supply a resource id
