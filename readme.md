@@ -21,7 +21,7 @@ Resourceful uses [featurebook](https://github.com/SOFTWARE-CLINIC/featurebook) f
 
 High level development roadmap:
 
- - [x] [Whiteboard jam on schema](./specification/assets/images/wb-jam-01.JPG)  
+ - [x] [Whiteboard jam on schema](./specification/assets/images/wb-jam-01.jpg)  
  - [ ] [Gherkin Features and Scenarios](./specification)  
  - [ ] Implement Gherkin features in app  
  - [ ] Implement responsive web User Interface  
