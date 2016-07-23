@@ -13,6 +13,12 @@ Crafted in New Zealand of course!
 ##How
 Development will use a [Domain Driven Design](http://www.methodsandtools.com/archive/archive.php?id=97) approach. The bread and butter of this will be [Ghurkin Specs](https://github.com/cucumber/cucumber/wiki/Gherkin), these will be [parsed](https://github.com/cucumber/gherkin3) into tests that will be coded against in implementation.
 
+###Setup
+Resourceful uses [featurebook](https://github.com/SOFTWARE-CLINIC/featurebook) for viewing specs. To get this up and running:
+
+ - Install featurebook: `npm install -g featurebook`
+ - Run featurebook from the repo: `featurebook serve`
+
 High level development roadmap:
 
  - [x] [Whiteboard jam on schema](./jams/wb-jam-01.JPG)  
